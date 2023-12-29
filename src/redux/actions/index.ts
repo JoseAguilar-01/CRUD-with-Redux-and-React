@@ -1,0 +1,1 @@
+export { createProductAction } from './products';
